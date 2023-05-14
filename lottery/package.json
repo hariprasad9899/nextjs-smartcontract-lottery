@@ -8,6 +8,9 @@
         "start": "next start",
         "lint": "next lint"
     },
+    "engines": {
+        "node": ">=16.8.0"
+    },
     "dependencies": {
         "@web3uikit/core": "^0.1.5",
         "@web3uikit/icons": "^0.1.5",
